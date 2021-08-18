@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: day1.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.006 sec <<< FAILURE!
+day1.CalculatorTest.testAdd()  Time elapsed: 0.005 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at day1.CalculatorTest.testAdd(CalculatorTest.java:24)
+
+day1.CalculatorTest.testDivide()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at day1.CalculatorTest.testDivide(CalculatorTest.java:45)
+
+day1.CalculatorTest.testAddFloat()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at day1.CalculatorTest.testAddFloat(CalculatorTest.java:36)
+
